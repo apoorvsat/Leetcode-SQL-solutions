@@ -8,7 +8,7 @@
 This repository contains the solutions to some SQL problems available on LeetCode. <a href ="https://leetcode.com/problemset/database/">Click here</a> to view all the Database problems available on LeetCode's website.
 
 ## 🧾 Questions
-### 1. [Exchange Seats 💺](#Exchange-Seats) `medium`
+### 1. [Exchange Seats 💺](#Exchange-Seats) 
 * `CASE` statement 
 
 ### 2. [Confirmation Rate 📈](Confirmation-Rate)
