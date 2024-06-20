@@ -14,5 +14,5 @@ This repository contains the solutions to some SQL problems available on LeetCod
 ### 2. [Confirmation Rate 📈](Confirmation-Rate)
 * `CASE` statement, `IF` function, Aggregation
 
-### 3. [Customers-Who-Brought-All-Products 📦]
+### 3. [Customers-Who-Brought-All-Products 📦](Customers-Who-Brought-All-Products)
 * Subquery
