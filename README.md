@@ -17,5 +17,5 @@ This repository contains the solutions to some SQL problems available on LeetCod
 ### 3. [Customers Who Brought All Products 📦](Customers-Who-Brought-All-Products)
 * Subquery
 
-## 4. [Monthly Transactions 🏦](Monthly-Transactions)
+## 4. [Monthly Transactions 🏦](Monthly-Transactions-I)
 * Subqueries, `DATE_FORMAT`, Aggregation
