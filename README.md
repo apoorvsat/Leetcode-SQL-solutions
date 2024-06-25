@@ -19,3 +19,6 @@ This repository contains the solutions to some SQL problems available on LeetCod
 
 ### 4. [Monthly Transactions 🏦](Monthly-Transactions-I.md)
 * `DATE_FORMAT`, Conditional statements and aggregation 
+
+### 5. [Count Salary Categories ₹] (Count-Salary-Categories.md)
+* `UNION`, `SUM`
