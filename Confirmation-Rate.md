@@ -6,7 +6,7 @@
 | time_stamp  | datetime |
 
 
-user_id is the column of unique values for this table.
+`user_id` is the column of unique values for this table.
 Each row contains information about the signup time for the user with ID user_id.
  
 
@@ -19,10 +19,10 @@ Each row contains information about the signup time for the user with ID user_id
 | action      | ENUM     |
 
 
-(user_id, time_stamp) is the primary key (combination of columns with unique values) for this table.
-user_id is a foreign key (reference column) to the Signups table.
-action is an ENUM (category) of the type ('confirmed', 'timeout')
-Each row of this table indicates that the user with ID user_id requested a confirmation message at time_stamp and that confirmation message was either confirmed ('confirmed') or expired without confirming ('timeout').
+(`user_id`, `time_stamp`) is the primary key (combination of columns with unique values) for this table.</br>
+`user_id` is a foreign key (reference column) to the `Signups` table.
+action is an ENUM (category) of the type ('confirmed', 'timeout')</br>
+Each row of this table indicates that the user with ID user_id requested a confirmation message at `time_stamp` and that confirmation message was either confirmed ('confirmed') or expired without confirming ('timeout').
  
 ## Problem statement: 
 
