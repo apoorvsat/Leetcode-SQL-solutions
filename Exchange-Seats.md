@@ -6,9 +6,9 @@
 | student     | varchar |
 
 
-id is the primary key (unique value) column for this table.
+`id` is the primary key (unique value) column for this table.
 Each row of this table indicates the name and the ID of a student.
-id is a continuous increment.
+`id` is a continuous increment.
 
 ## Problem: 
 Write a solution to swap the seat id of every two consecutive students. If the number of students is odd, the id of the last student is not swapped.
