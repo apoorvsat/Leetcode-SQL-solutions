@@ -18,4 +18,4 @@ This repository contains the solutions to some SQL problems available on LeetCod
 * Subquery
 
 ## 4. [Monthly Transactions 🏦](Monthly-Transactions-I)
-* Subqueries, `DATE_FORMAT`, Aggregation
+* `DATE_FORMAT`, Conditional statements and aggregation 
