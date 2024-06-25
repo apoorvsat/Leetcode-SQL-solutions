@@ -68,3 +68,5 @@ HAVING COUNT(DISTINCT product_key) = (SELECT COUNT(product_key)
 
 Explanation: 
 The query groups customers by their ID, counts the unique types of products each has purchased, and selects those whose purchase count matches the total number of distinct products available in the store.
+
+---
