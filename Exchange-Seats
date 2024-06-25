@@ -68,3 +68,6 @@ To swap odd and even numbers, use id % 2 to check the parity:
 However, the last odd number does not get swapped (e.g., id = 5 in this example). To address this, we must check whether the id is the maximum value using a subquery `SELECT MAX(id) FROM Seat` 
 
 Finally, sort the results by ID.
+
+
+---
