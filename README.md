@@ -22,3 +22,6 @@ This repository contains the solutions to some SQL problems available on LeetCod
 
 ### 5. [Count Salary Categories ₹](Count-Salary-Categories.md)
 * `UNION`, `SUM`
+
+### 6. [Movie Rating 🎬](Movie-Rating.md)
+* `UNION ALL`, `JOIN`
