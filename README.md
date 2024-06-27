@@ -11,7 +11,9 @@ This repository contains the solutions to some SQL problems available on LeetCod
 ### 1. [Exchange Seats 💺](#Exchange-Seats.md) 
 * `CASE` statement 
 
-### 2. [Confirmation Rate 📈](Confirmation-Rate.md)
+### 2. [Confirmation Rate 📈](Confirmation-Rate.md) <img src="https://img.shields.io/badge/Medium-ffc01e" style="width: 40px; margin-top: 4px;">
+
+
 * `CASE` statement, `IF` function, Aggregation
 
 ### 3. [Customers Who Brought All Products 📦](Customers-Who-Brought-All-Products.md)
