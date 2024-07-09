@@ -20,7 +20,9 @@ The result format is in the following example.
 ## Example 1:
 
 ### Input: 
+
 Seat table:
+
 | id | student |
 -----|----------
 | 1  | Abbot   |
@@ -31,6 +33,7 @@ Seat table:
 
 
 ### Output: 
+
 | id | student |
 |----|---------|
 | 1  | Doris   |
