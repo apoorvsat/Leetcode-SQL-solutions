@@ -8,7 +8,7 @@
 This repository contains the solutions to some SQL problems available on LeetCode. <a href ="https://leetcode.com/problemset/database/">Click here</a> to view all the Database problems available on LeetCode's website.
 
 ## 🧾 Questions
-### 1. [Exchange Seats 💺](#Exchange-Seats.md) 
+### 1. [Exchange Seats 💺](Exchange-Seats.md) 
 * `CASE` statement 
 
 ### 2. [Confirmation Rate 📈](Confirmation-Rate.md) <img src="https://img.shields.io/badge/Medium-ffc01e" style="width: 40px; margin-top: 4px;">
@@ -27,3 +27,6 @@ This repository contains the solutions to some SQL problems available on LeetCod
 
 ### 6. [Movie Rating 🎬](Movie-Rating.md)
 * `UNION ALL`, `JOIN`
+
+### 7. [Immediate Food Delivery II 🍔](Immediate-Food-Delivery-III.md)
+* Comparison, `CASE`, Aggregation 
